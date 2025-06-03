@@ -43,9 +43,6 @@ def query_logs_for_hour(table_name, query_hour):
     return count
 
 if __name__ == "__main__":
-    #upload_logs_to_hbase('sdu-portal.log', 'logtaable')
-    #print("Log data uploaded successfully")
-
     hour = '2024-05-31T23:00:00'
     request_count = query_logs_for_hour('logtaable', hour)
     print(f"Number of requests in the selected hour: {request_count}")
