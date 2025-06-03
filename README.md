@@ -2,7 +2,7 @@
 
 ## Overview
 
-`BigData/`, contains a big data processing, analysis, and technologies. Each subdirectory represents a distinct area of work or a specific task.
+`BigData/`, contains a big data processing, analysis, etc. Each subdirectory represents a distinct area of work or a specific task.
 
 One of the key projects included is the **New York City Taxi Trip Analysis**, primarily located within the `NYtaxi/` subdirectory. Other areas of exploration include work with `hbase`, `spark`, and `streaming` technologies.
 
