@@ -9,18 +9,13 @@
 
 
 **Data Sources**
-
-### `green.csv`
-- **[Link](https://drive.google.com/uc?export=download&id=13fSdj3d8BiXLcuDy6OJ2OOboXP1SnZ0n)**
+- [`green.csv`](https://drive.google.com/uc?export=download&id=13fSdj3d8BiXLcuDy6OJ2OOboXP1SnZ0n)
 - [Data Dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf)
 
-### `yellow.csv`
-- **[Link](https://drive.google.com/uc?export=download&id=1Prcm3duikQgXbbdmZrdn8-LSCL8whYcY)**
+- [`yellow.csv`](https://drive.google.com/uc?export=download&id=1Prcm3duikQgXbbdmZrdn8-LSCL8whYcY)
 - [Data Dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
 
-### `2008.csv`, `airports-data.csv`
-- **[`2008.csv` Link](https://drive.google.com/uc?export=download&id=1eQhJwxwpIoCX7NyefkQPg_2NK13Ow1TR)**
-- **[`airports-data.csv` Link](https://drive.google.com/uc?export=download&id=1Vwk0hHqkSnydFdnYQIlJgv0phbhlUxfL)**
+- [`2008.csv`](https://drive.google.com/uc?export=download&id=1eQhJwxwpIoCX7NyefkQPg_2NK13Ow1TR)
+- [`airports-data.csv`](https://drive.google.com/uc?export=download&id=1Vwk0hHqkSnydFdnYQIlJgv0phbhlUxfL)
 
-### `book.txt`
-- **[Link](https://drive.google.com/uc?export=download&id=1Q3B_ocKCLI9h5VjrkrXDvywIw-uG3j3F)**
+- [`book.txt`](https://drive.google.com/uc?export=download&id=1Q3B_ocKCLI9h5VjrkrXDvywIw-uG3j3F)
