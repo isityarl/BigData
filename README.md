@@ -13,7 +13,6 @@
 
 - [`yellow.csv`](https://drive.google.com/uc?export=download&id=1Prcm3duikQgXbbdmZrdn8-LSCL8whYcY) [dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
 
-- [`2008.csv`](https://drive.google.com/uc?export=download&id=1eQhJwxwpIoCX7NyefkQPg_2NK13Ow1TR)
-- [`airports-data.csv`](https://drive.google.com/uc?export=download&id=1Vwk0hHqkSnydFdnYQIlJgv0phbhlUxfL) flight and airport informations
+- [`2008.csv`](https://drive.google.com/uc?export=download&id=1eQhJwxwpIoCX7NyefkQPg_2NK13Ow1TR) [`airports-data.csv`](https://drive.google.com/uc?export=download&id=1Vwk0hHqkSnydFdnYQIlJgv0phbhlUxfL) flight and airport informations
 
 - [`book.txt`](https://drive.google.com/uc?export=download&id=1Q3B_ocKCLI9h5VjrkrXDvywIw-uG3j3F) large text
